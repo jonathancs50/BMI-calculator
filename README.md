@@ -12,7 +12,7 @@ A simple Body Mass Index (BMI) calculator application built using Qt.
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/jonathancs50/bmi-calculator.git
+   git clone https://github.com/jonathancs50/BMI-calculator.git
    cd bmi-calculator
 
 ---
