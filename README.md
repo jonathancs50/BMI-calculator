@@ -14,6 +14,22 @@ A simple Body Mass Index (BMI) calculator application built using Qt.
    ```bash
    git clone https://github.com/jonathancs50/BMI-calculator.git
    cd bmi-calculator
+   
+2. **Open the Project in Qt Creator**
+   - Launch Qt Creator.
+   - Go to `File` > `Open File or Project...`.
+
+3. **Configure the Project**
+   - Qt Creator will prompt you to configure the project. Select the appropriate build kits and click `Configure Project`.
+   - Ensure all required modules and dependencies are installed. Qt Creator will handle the configuration if set up correctly.
+
+4. **Build the Project**
+   - Click the `Build` button (hammer icon) or go to `Build` > `Build All` to compile the project.
+   - Resolve any build issues if they arise (e.g., missing dependencies or configuration errors).
+
+5. **Run the Project**
+   - Click the `Run` button (green play icon) or go to `Build` > `Run` to start the application.
+   - For the App, you can now enter your height and weight details then proceed to click the calculate button and it will output your result.
 
 ---
 ## License
